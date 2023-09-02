@@ -37,3 +37,14 @@
 // let age1 = 23;
 // let age2 = 24;
 // console.log(age1<age2); // true
+
+
+let color = "Yellow";
+
+if(color === "Red"){
+    console.log("Stop");
+} else if (color === "Yellow"){
+    console.log("Go Slow");
+} else {
+    console.log("GO")
+}
