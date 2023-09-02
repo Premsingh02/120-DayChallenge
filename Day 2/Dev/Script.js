@@ -39,12 +39,24 @@
 // console.log(age1<age2); // true
 
 
-let color = "Yellow";
+// let color = "Yellow";
 
-if(color === "Red"){
-    console.log("Stop");
-} else if (color === "Yellow"){
-    console.log("Go Slow");
-} else {
-    console.log("GO")
+// if(color === "Red"){
+//     console.log("Stop");
+// } else if (color === "Yellow"){
+//     console.log("Go Slow");
+// } else {
+//     console.log("GO")
+// }
+
+let size = "M";
+
+if(size === "XL"){
+    console.log("Price is Rs : 250");
+} else if (size === "L"){
+    console.log("Price is Rs : 200");
+} else if (size === "M"){
+    console.log("Price is Rs : 100");
+} else if (size === "S"){
+    console.log("Price is Rs : 50");
 }
