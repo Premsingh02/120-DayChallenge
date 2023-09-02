@@ -14,21 +14,26 @@
 // console.log(output);
 
 
-let a = 10;
-let b = 5;
+// let a = 10;
+// let b = 5;
 
 //Arithmetic Operators (+,-,*,/,%,**)
-console.log(a+b);
-console.log(a-b);
-console.log(a*b);
-console.log(a/b);
-console.log(a%b);
-console.log(a**b);
+// console.log(a+b);
+// console.log(a-b);
+// console.log(a*b);
+// console.log(a/b);
+// console.log(a%b);
+// console.log(a**b);
 
 //Unary Operators (++,--)
-console.log(a++);
-console.log(++a);
+// console.log(a++);
+// console.log(++a);
 
-//Assignment Operators (=,+=,-=,*=,/=,%=,etc);
-a = b;
-console.log(a);
+//Assignment Operators (=,+=,-=,*=,/=,%=,etc)
+// a = b;
+// console.log(a);
+
+//Comparison Operators (>,<,>=,<=,==,!=)
+// let age1 = 23;
+// let age2 = 24;
+// console.log(age1<age2); // true
