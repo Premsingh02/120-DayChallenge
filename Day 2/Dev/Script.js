@@ -72,5 +72,12 @@
 //     case "green" : console.log("Go");
 //         break;
 //     default : console.log("Broken Light");
-
 // }
+
+//Prompt
+// let firstName = prompt("Enter your name : ");
+// console.log(firstName);
+
+// let firstName = prompt("Enter your first name : ");
+// let secondName = prompt("Enter your second name : ");
+// console.log(firstName + " " + secondName);
