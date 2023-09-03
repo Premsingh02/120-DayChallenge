@@ -57,5 +57,6 @@
 //     console.log("Both number's last digit is same");
 // } else {
 //     console.log("Last digit not same");
+
 // }
 
