@@ -58,5 +58,6 @@
 // } else {
 //     console.log("Last digit not same");
 
+
 // }
 
