@@ -11,3 +11,8 @@
 
 // let msg = "error";
 // console.log(msg.toUpperCase()); //changing to string to UPPER CASE;
+
+//Method Chaining
+// let msg = "     hello      ";
+// let newMsg = msg.toUpperCase().trim();
+// console.log(newMsg);
