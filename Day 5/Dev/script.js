@@ -14,5 +14,5 @@
 
 //Method Chaining
 // let msg = "     hello      ";
-// let newMsg = msg.toUpperCase().trim();
+// let newMsg = msg.toUpperCase().trim(); //first Upper Case will work and then trim
 // console.log(newMsg);
