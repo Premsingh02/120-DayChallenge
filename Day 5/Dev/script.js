@@ -5,3 +5,9 @@
 // let password = prompt("Set Your Password");
 // let newPassword = password.trim();
 // console.log(newPassword);
+
+
+// let name = "Aarav Kumar";
+
+// let msg = "error";
+// console.log(msg.toUpperCase()); //changing to string to UPPER CASE;
