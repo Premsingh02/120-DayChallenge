@@ -10,5 +10,5 @@
 
 //repeat
 //  let str = "Mango";
-//  let newStr = str.repeat(3);
+//  let newStr = str.repeat(3); 
 //  console.log(newStr);
