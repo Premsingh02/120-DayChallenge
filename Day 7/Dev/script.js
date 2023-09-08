@@ -12,4 +12,4 @@
 // colors.splice(4);
 // colors.splice(0,1);
 // colors.splice(0,1,"black","grey"); //black and grey will be added at the 0 index.
-// console.log(colors);
+// console.log(colors);  
