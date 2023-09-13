@@ -17,3 +17,19 @@
 //     undefined: "e",
 // }; // All the keys are converted into strings.
 
+
+//Add/Update Value:
+const student = {
+    name: "Prem",
+    age: 22,
+    makrs: 83.0,
+    city: "Durgapur",
+}
+
+// change the city to "Kolkata";
+// Add a new property, gender: "Male";
+// Change the marks to "A";
+
+student.city = "Kolkata";
+student.gender = "Male";
+student.marks = "A";
