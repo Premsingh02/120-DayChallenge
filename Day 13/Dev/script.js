@@ -5,3 +5,6 @@ const post = {
     reposts: 5,
     tags: ["@apnacollege", "@delta"],
 };
+
+post["username"];
+post.username;
