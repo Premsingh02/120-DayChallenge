@@ -53,20 +53,31 @@
 
 
 // Array of objects 
-const classInfo = [
-    {
-        name: "Prem",
-        grade: "B+",
-        city: "Kolkata",
-    },
-    {
-        name: "Aarav",
-        grade: "A+",
-        city: "Kolkata",
-    },
-    {
-        name: "Rahul",
-        grade: "B+",
-        city: "Mumbai",
-    },
-];
+// const classInfo = [
+//     {
+//         name: "Prem",
+//         grade: "B+",
+//         city: "Kolkata",
+//     },
+//     {
+//         name: "Aarav",
+//         grade: "A+",
+//         city: "Kolkata",
+//     },
+//     {
+//         name: "Rahul",
+//         grade: "B+",
+//         city: "Mumbai",
+//     },
+// ];       
+
+
+//Random Integers
+// let num = Math.random();
+
+// num = num * 10;
+
+// num = Math.floor(num);
+// num = num + 1;
+
+// console.log(num);
