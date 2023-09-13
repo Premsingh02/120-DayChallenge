@@ -50,3 +50,23 @@
 //         city: "Kolkata ",
 //     },
 // } 
+
+
+// Array of objects 
+const classInfo = [
+    {
+        name: "Prem",
+        grade: "B+",
+        city: "Kolkata",
+    },
+    {
+        name: "Aarav",
+        grade: "A+",
+        city: "Kolkata",
+    },
+    {
+        name: "Rahul",
+        grade: "B+",
+        city: "Mumbai",
+    },
+];
