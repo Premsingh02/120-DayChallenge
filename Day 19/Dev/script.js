@@ -23,3 +23,9 @@ console.log("HEllo")
 console.log("HEllo")
 console.log("HEllo")
 console.log("HEllo")
+
+
+//Arrow Functions
+const sum = (a,b) => {
+    console.log(a+b);
+}
