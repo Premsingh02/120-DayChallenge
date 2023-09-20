@@ -10,3 +10,19 @@
 // }, 3000);
 
 // console.log(id2);
+
+
+//this with Arrow Function
+const student = {
+    name: "Aarav",
+    marks: 95,
+    prop: this,
+    getName: function() {
+        console.log(this);
+        return this.name;
+    },
+    getMarks: () => {
+        console.log(this);
+        return this.marks;
+    }
+};
