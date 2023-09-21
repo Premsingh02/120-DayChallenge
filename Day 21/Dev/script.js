@@ -18,7 +18,7 @@
 // let arr = [{
 //     name: "Aarav",
 //     marks: 100,
-// },
+// }, 
 // {
 //     name: "shradha",
 //     marks: 94.4,
@@ -31,4 +31,12 @@
 // arr.forEach((student) => {
 //     console.log(student.marks);
 // })
+
 // ---------------------------------------------------------
+
+//Map - 
+// let num = [1,2,3,4];
+
+// let double = num.map(function(el){
+//     return el * 2;
+// });
