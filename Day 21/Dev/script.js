@@ -51,3 +51,22 @@
 // })
 
 // console.log(even);
+
+//-------------------------------------------------------------
+
+// Every - 
+let arr = [1,2,3,4];
+
+let newArr = arr.every((el) => {
+    return el % 2 == 0;
+});
+ 
+console.log(newArr); //false
+
+let arr2 = [2,4];
+
+let newArr2 = arr2.every((el) => {
+    return el % 2 == 0;
+});
+
+console.log(newArr2); //true
