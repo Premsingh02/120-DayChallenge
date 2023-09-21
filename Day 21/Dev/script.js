@@ -54,19 +54,52 @@
 
 //-------------------------------------------------------------
 
-// Every - 
-let arr = [1,2,3,4];
+// Every -  
+// let arr = [1,2,3,4];
 
-let newArr = arr.every((el) => {
-    return el % 2 == 0;
-});
+// let newArr = arr.every((el) => {
+//     return el % 2 == 0;
+// });
  
-console.log(newArr); //false
+// console.log(newArr); //false
 
-let arr2 = [2,4];
+// let arr2 = [2,4];
 
-let newArr2 = arr2.every((el) => {
-    return el % 2 == 0;
-});
+// let newArr2 = arr2.every((el) => {
+//     return el % 2 == 0;
+// });
 
-console.log(newArr2); //true
+// console.log(newArr2); //true
+
+//-----------------------------------------------------------
+
+//Reduce - 
+// let arr = [1,2,3,4];
+
+// let finalVal = arr.reduce((res,el) => (res + el));
+// console.log(finalVal);
+
+//find max using reduce
+let arr = [1,4,2,5,6,7,2,9,3];
+
+// let max = -1;
+
+// for(let i=0; i<arr.length; i++){
+//     if(arr[i] > max){
+//         max = arr[i];
+//     }
+// }
+
+// console.log(max);
+
+//         OR
+
+// let ans = arr.reduce((max,el) => {
+//     if(max < el) {
+//         return el;
+//     } else {
+//         return max;
+//     }
+// });
+
+// console.log(ans);
