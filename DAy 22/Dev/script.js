@@ -37,3 +37,14 @@ function sum(...args) {
 function min(a,b,c,d){
     console.log(arguments);
 }
+
+//-------------------------------------------
+
+//Destructing
+let names = ["tony", "bruce", "peter", "steve"];
+
+let [winner, runnerUp, secondRunnerUP] = names;
+
+console.log(winner);
+console.log(runnerUp);
+console.log(secondRunnerUP);
