@@ -24,3 +24,16 @@ console.log(dataCopy);
 let arr2 = [1,2,3,4,5];
 let obj = {...arr2};
 console.log(obj);
+
+//------------------------------------------
+
+//Rest 
+function sum(...args) {
+    for(let i=0; i<args.length; i++){
+        console.log("You gave us: ", args[i]);
+    }
+}
+
+function min(a,b,c,d){
+    console.log(arguments);
+}
