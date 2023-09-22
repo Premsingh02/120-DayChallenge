@@ -48,3 +48,18 @@ let [winner, runnerUp, secondRunnerUP] = names;
 console.log(winner);
 console.log(runnerUp);
 console.log(secondRunnerUP);
+
+//In Objects
+const student = {
+    name: "Karan",
+    age: 14,
+    class: 9,
+    subjects: ["hindi", "english", "math", "science"],
+    username: "karan@123",
+    password: "abcd",
+};
+
+const {username:user, password:pass} = student;
+
+console.log(user);
+console.log(pass);
