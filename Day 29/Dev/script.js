@@ -12,3 +12,9 @@ function sayHello() {
 }
 
 btn.onclick = sayHello;
+
+function sayHi() {
+    alert("HI!");
+}
+
+btn.onmouseenter = sayHi;
