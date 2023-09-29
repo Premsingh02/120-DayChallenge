@@ -6,10 +6,8 @@ btn.innerText = "Click me";
 document.querySelector("body").prepend(input);
 document.querySelector("body").append(btn);
 
-input.placeholder = "username";
-btn.id = "btn";
-
-btn.classList.add("btn");
+btn.setAttribute("id","btn");
+input.setAttribute("placeholder","username");
 
 let h1 = document.createElement("h1");
 h1.innerText = "DOM Practice";
